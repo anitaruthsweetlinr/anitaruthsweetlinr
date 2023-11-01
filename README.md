@@ -2,7 +2,7 @@
 
 -  I’m Anita. I am a Backend Developer (Java, C#)
 -  I have completed my Masters in Computer Science and Engineering.
--  I am passionate about programming. I have almost 7 years of experience working as an application developer in various enterprise , stand-alone software applications and tools.
+-  I am passionate about programming. I have experience working as an application developer in various enterprise,stand-alone software applications and tools.
 
  **Skills:**
 - **Languages**: Java 8,C#,SQL
