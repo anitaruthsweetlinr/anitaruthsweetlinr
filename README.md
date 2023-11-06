@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 -  I’m Anita. I am a Backend Developer (Java, C#)
--  I have completed my Masters in Computer Science and Engineering.
+-  I have completed Masters in Computer Science and Engineering.
 -  I am passionate about programming. I have experience working as an application developer in various enterprise,stand-alone software applications and tools.
 
  **Skills:**
@@ -10,5 +10,5 @@
 - **Front End:** HTML, CSS, JSP , JavaScript
 - **tool**: Docker, Postman, CircleCI
 - **Testing framework**: Junit, Xunit
-- **Cloud platform:** GCP, AWS 
+- **Cloud platform:** GCP 
 - **Operating Systems:** Windows, MAC
