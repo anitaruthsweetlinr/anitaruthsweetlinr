@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--  I’m Anita. I am a Backend Developer (Java, C#)
+-  I’m Anita. I am a full stack developer. 
 -  I have completed Masters in Computer Science and Engineering.
 -  I am passionate about programming. I have experience working as an application developer in various enterprise,stand-alone software applications and tools.
 
