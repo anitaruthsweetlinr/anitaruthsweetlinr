@@ -7,7 +7,7 @@
  **Skills:**
 - **Languages**: Java 8,C#,SQL
 - **Backend Technologies**: Servlet, EJB, JavaEE, SpringBoot, Relational DB - Oracle, postgres, MySQL
-- **Front End:** HTML, CSS, JSP , JavaScript
+- **Front End:** HTML, CSS, JSP , JavaScript, React
 - **tool**: Docker, Postman, CircleCI
 - **Testing framework**: Junit, Xunit
 - **Cloud platform:** GCP 
